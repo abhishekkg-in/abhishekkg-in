@@ -15,13 +15,13 @@
     <h2>🌐 Connect With Me</h2>
     <p>To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.
 Let's innovate together!</p>
-    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+    <a href="https://www.linkedin.com/in/abhishekkg26/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://linktr.ee/zanepearton">
+    <a href="https://linktr.ee/">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
-    <a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
+    <a href="https://github.com/abhishekkg-in" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=araj1695&style=for-the-badge" alt="Profile views" />
